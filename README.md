@@ -1,4 +1,4 @@
-<h3> ABOUT ME </h3>
+**<h3> ABOUT ME </h3>**
 
 - 🤔 &nbsp; Supporting decision-makers and responsive systems is what drives me further. IT professional with over 7 years experience supporting and managing ERP systems, productivity apps and web platforms.
 - 🎓 &nbsp; History Student at <a href="https://www.bbk.ac.uk/study/2022/postgraduate/programmes/GCGHISTO_C/0/history-graduate-certificate">Birkbeck University</a>.
@@ -6,7 +6,7 @@
 
 **<h3> SKILLS </h3>**
 
-**APPS and DATA**
+**<h4>APPS and DATA</h4>**
 
   ![Dynamics 365 Business Cental](https://img.shields.io/badge/NAV/BC-MICROSOFT%20DYNAMICS%20365%20BUSINESS%20CENTRAL-blue.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAABtCAYAAAB0tpVJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAAE50lEQVR4Xu2dPWgUQRTHN5aKGgttFExKPzB2sVBMLKwsIgpGFDRNrCQ2goViRMFC8AMrG7VQjCAEEW0EP7DSRiOIZSJoo4VR0TbmxZd4ub2dnZmd3Z33v/cDcQZub8b53XszOze3dszMkoDR0b2XS4vp2dCVvHtyhWvYwIjNkmliZnKcS3gs4b9F4yOV8L1OAhBilTSiU3HIiENLyxqxoIiN2K7tw8mnL9+4lqY5Aqc+f026dxzjWhq0iBUrNisN2wgqcq0UNBWDomJBUbGgqFhQ4MSa7m1pZYy829SIblAwukGhiEC02FBRhhatRNtHLKJUQrxYVDFFgfminbBdTLXDhwEqFWv0/kdXxaCoWFBULCgqFhQVC4qKBUXFgqJiQYESa7vz1A7fyYrbUqxCCsIOliixVUeaZMEiUjEJrSN9Tv/8PfdHIiIitu45ceXypcn0+7tck0HUYusW2oi0tBytWBepO3s3JS/GLnDNDdt2pImNco69evMRl/KhAfeVStD1R/b1c601bx9f5pIcootYmwg6O3IgGT0xyLWwNLYveVUclVgbqVUNNvVFslhRO0+3Lh3nUvlIlkqIiVjpA101LcXapMR5nt87n/Rt28w1P/Las5Xq0u9YPih9g6eTl68/cM2MS59TYl0Gp5EiAxVCrE+/65ZbZp8XzbG+Uoki1xbFt22pfbbZ5lyI2FD/SNfH2pnaLStSm6kycvMeimJLXp/nIvb2g2dzlRBMfJziUjFGhvZwCYsQUgmam03MRWzep77VpyNUhGdRNFpd+zx+41TSuWIZ18qh/+AZLrXGtc+mMepIugaMtzvGi0uUW0Ss6VrKTkMnr3MtHrL6TPPpqp7DXEuTdZ1xg8JmcOvCRypxdP8uLsWDqc++WUTUzlO7QuJdg0zFgqJiQTGKHRi+yCU50CN/pDF6dYxLraH1hOtC1Sj24dM3XIqPrDnH9IRTosyVvC/nrt3nUhrf/lrdx06+upF0rVvDtfzGbCd60/vYvIfr9abX04G1rRu7ufYP2835UDT3uXPLoeTHrz9cS2Mao+BbioStWCKrXdv3CNFvl/4WJdQ4f5+4Y7wVCr54CjVIIT9oMUHZLwR597cLYkMI8XmPou3Wfb0rNKVV0edFEevbIM1PZQwQRa1N5Pq2XUafbSm7z6lU7NogvT6GU/Iu/abjpr4DGxLqg0s/XF6bOkFRJ6bojEGEJIIvnsoCdTFVFmLEEnRfVwW2c3vMRCU2L93SzTodLSkTlMwQ1Rw7j+25oJDzLtr8HqVYwjZyig56Ve1UTbRiCd+0SD8FyTop4fueKrYEfGWEQmIqFrUqrhoSKlEqIUIsDW7V54xDbdbXhYhU3EgVaVlqlDYiTmwWdLzEdBKhmRC/EowZGLHz2EQ0QkTmoYsnUFQsKCoWFBULiooFRcWComJBUbGgqFhQIHae6Bd2eT/GagXyDpR4sUW/FECV2/apuO4v8ctCtNhQUqo61loluniaxfQbVKmInWPzorXV3Gm6Bm2uhRNrI6jItVKASsXr167mkgIlNtQDKBHQxRMoKhYUXRUzuiqOiDy5LqCJ1VQ8C+LTzMV/CUAUiVy0SJ1HIxYUCLG+UYcarQREKm4mKzXTf+gwsLuXa9hAilV0joVFxYKiYkFRsaCoWFBULCgqFhQVC4qKhSRJ/gLAvE437ZL3hwAAAABJRU5ErkJggg==)<br/>
   ![MSSQL](https://img.shields.io/badge/MSSQL-MICROSOFT%20SQL%20SERVER-blue.svg)<br/>
@@ -20,12 +20,12 @@
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br/>
    
 
-**DevOps**
+**<h4>DevOps</h4**
 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-**DEV Tools**
+**<h4>DEV Tools</h4>**
 
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-black?style=for-the-badge&logo=Jupyter)
